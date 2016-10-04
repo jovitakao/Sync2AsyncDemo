@@ -1,0 +1,8 @@
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\bin\Debug\Sync2AsyncDemo.exe.config
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\bin\Debug\Sync2AsyncDemo.exe
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\bin\Debug\Sync2AsyncDemo.pdb
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\obj\Debug\Sync2AsyncDemo.Form1.resources
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\obj\Debug\Sync2AsyncDemo.Properties.Resources.resources
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\obj\Debug\Sync2AsyncDemo.csproj.GenerateResource.Cache
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\obj\Debug\Sync2AsyncDemo.exe
+d:\temp\Sync2AsyncDemo\Sync2AsyncDemo\obj\Debug\Sync2AsyncDemo.pdb
